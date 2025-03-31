@@ -1,5 +1,7 @@
-import ImgPreview from "./ImgPreview";
-import ImgUpload from "./ImgUpload";
-import Loading from "./Loading";
+import Header from './Header';
+import ImageUpload from './ImageUpload';
+import ImageComparison from './ImageComparison';
+import Footer from './Footer';
 
-export {ImgPreview, ImgUpload, Loading}
+
+export  {Header,ImageUpload,ImageComparison, Footer}
